@@ -28,8 +28,8 @@ abstract class ContratanteFactory {
             }
             
 			// Se estiver inserindo o contratante, o alias deve ser criado automaticamente
-			// Inicialmente o alias será um hash md5 do próprio email do usuário,
-			// podendo ser alterado posteriormente pelo próprio contratante.
+			// Inicialmente o alias será um hash md5 do próprio email do contratante,
+			// podendo ser alterado posteriormente.
 			if (Utilitarios::estaInserindo($id)) {
 				$alias = md5($pessoa->getEmail());
 				$contratante->setAlias($alias);			
