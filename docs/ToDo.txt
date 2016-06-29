@@ -1,0 +1,16 @@
+﻿Todo:
+
+* Na cobrança, além de enviar email para o contratante, o sistema deve gerar um alerta.
+* Nas telas de consulta, se o registro estiver desativado, exibir a linha em vermelho.
+
+
+
+Bugs:
+
+* Cadastro de módulos: 
+a. Se um módulo estiver desativado, o sistema possibilita ao usuário desativá-lo novamente.
+   Desabilitar o botão de desativação se o módulo estiver desativado.
+
+* Cadastro de plano de adesão: 
+a. Se um plano de adesão estiver desativado, o sistema possibilita ao usuário desativá-lo novamente.
+   Desabilitar o botão de desativação se o módulo estiver desativado.

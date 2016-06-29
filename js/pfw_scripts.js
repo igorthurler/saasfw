@@ -1,0 +1,10 @@
+head.js("js/pfwscripts/ajax.js", 
+        "js/pfwscripts/fd2qs.js",
+        "js/pfwscripts/html5shiv.js",
+        "js/pfwscripts/jquery.validate.js", 
+        "js/pfwscripts/pfwUpload.js",
+        "js/pfwscripts/modernizr-2.6.1.min.js", 
+        "js/pfwscripts/script.js", 
+        "js/pfwscripts/utils.js",
+        "js/pfwscripts/bootstrap.min.js",
+        "js/pfwscripts/jquery.tablesorter.min.js");	

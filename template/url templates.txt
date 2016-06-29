@@ -1,0 +1,25 @@
+IMPLEMENTADOS
+
+AdminLTE-master
+http://almsaeedstudio.com/AdminLTE/pages/forms/general.html
+
+sb-admin
+http://startbootstrap.com/sb-admin
+
+sb-admin-v2
+http://startbootstrap.com/sb-admin-v2
+
+devoops-master
+http://www.bootstrapstage.com/devoops/
+
+
+A IMPLEMENTAR
+
+SIMINTRA
+http://www.binarytheme.com/free-bootstrap-admin-template-siminta/
+
+BCORE
+http://www.binarytheme.com/bootstrap-free-admin-dashboard-template/
+
+charisma-master
+http://usman.it/free-responsive-admin-template/
