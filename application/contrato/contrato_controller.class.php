@@ -103,7 +103,7 @@ class ContratoController {
                 $contrato->cancelarPagamentosNaoQuitados($cancelamento);
             }*/
 			
-			contrato->cancelar($cancelamento);
+			$contrato->cancelar($cancelamento);
 
             $this->dao->save($contrato);
 
